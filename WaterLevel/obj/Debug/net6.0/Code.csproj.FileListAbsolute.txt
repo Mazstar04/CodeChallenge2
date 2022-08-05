@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Code\obj\Debug\net6.0\Code.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Code\obj\Debug\net6.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Code\obj\Debug\net6.0\Code.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Code\obj\Debug\net6.0\Code.AssemblyInfo.cs
+C:\Users\HP\Desktop\Code\obj\Debug\net6.0\Code.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Code\bin\Debug\net6.0\Code.exe
+C:\Users\HP\Desktop\Code\bin\Debug\net6.0\Code.deps.json
+C:\Users\HP\Desktop\Code\bin\Debug\net6.0\Code.runtimeconfig.json
+C:\Users\HP\Desktop\Code\bin\Debug\net6.0\Code.dll
+C:\Users\HP\Desktop\Code\bin\Debug\net6.0\ref\Code.dll
+C:\Users\HP\Desktop\Code\bin\Debug\net6.0\Code.pdb
+C:\Users\HP\Desktop\Code\obj\Debug\net6.0\Code.dll
+C:\Users\HP\Desktop\Code\obj\Debug\net6.0\ref\Code.dll
+C:\Users\HP\Desktop\Code\obj\Debug\net6.0\Code.pdb
+C:\Users\HP\Desktop\Code\obj\Debug\net6.0\Code.genruntimeconfig.cache
